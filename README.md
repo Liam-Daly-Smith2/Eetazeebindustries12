@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Eetazeebindustries12
-- 👀 I’m interested in Renewable energy modeling
-- 🌱 I’m currently learning physics and data science :)
-- 💞️ I’m looking to collaborate on wind turbine modeling
-- 📫 How to reach me ldalysmi@bates.edu
+- 👀 I’m interested in Renewable energy and simulation
+- 🌱 I’m currently learning scientific computing and simulation
+- 💞️ I’m looking to collaborate on cool projects
+- 📫 How to reach me ldalysmith241@gmail.com
 
 <!---
 Eetazeebindustries12/Eetazeebindustries12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
