@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eetazeebindustries12
+- 👋 Hi, I’m @Liam-Daly-Smith2
 - 👀 I’m interested in renewable energy and climate modeling
 - 🌱 I’m currently learning scientific computing and simulation
 - 💞️ I’m looking to collaborate on cool projects
